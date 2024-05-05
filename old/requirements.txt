@@ -1,0 +1,5 @@
+Flask
+Jinja2
+pandas
+confluent-kafka==1.7.0
+MarkupSafe
